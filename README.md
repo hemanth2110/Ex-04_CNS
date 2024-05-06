@@ -172,5 +172,5 @@ the particular vulnerability?
 
  
 # RESULT:
-  Thus the N-Stalker Vulnerability Assessment Tool was downloaded and  the features were explored successfully. 
+  Thus the N-Stalker Vulnerability Assessment Tool was downloaded and  the features were explored successfully... 
 
