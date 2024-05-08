@@ -8,7 +8,7 @@
 # STEPS ON CONFIGURING AND INTRUSION DETECTION: 
  
 1. Download Snort from the Snort.org website. (http://www.snort.org/snort-downloads) 
-2. Download Rules(https://www.snort.org/snort-rules). You must register to get the rules. 
+2. Download Rules(https://www.snort.org/snort-rules). You must register to get the rules.
 (You should download these often) 
 3. Double click on the .exe to install snort.  This will install snort in the “C:\Snort” folder.It is 
 important to have WinPcap (https://www.winpcap.org/install/) installed 
